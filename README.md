@@ -29,7 +29,9 @@
 
 ### OTRAS HERRAMIENTAS
 
-<a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" /> </a> 
+<a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" /> </a>
+<a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://images.ctfassets.net/c63hsprlvlya/IacLLeOBR5WCvdCPqKuff/a57a4dc79978ad9e141972054ce9f71e/nextjs3.webp" alt="Next" width="40" height="40"/> </a>
+<a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://docs.nestjs.com/assets/logo-small.svg" alt="Nest" width="40" height="40"/> </a>
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" /> </a> 
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40" /> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a> 
@@ -57,6 +59,7 @@ MVVM, MVC, Ruby, Rails, Python, Django,  spring boot, maven, jpaRepository, Rest
 Soy una persona honesta, comprometida, responsable, con deseos de superación y cumplidor en mis deberes. Capaz de enfrentar nuevos retos en la vida tanto laborales como personales. Dispuesto a crecer en conocimientos y adquirir nuevas habilidades para escalar en mi profesión y como persona. Soy emprendedor, capaz y dispuesto a afrontar nuevos retos, cumplir metas y asumir compromisos aun cuando esto signifique utilizar nuevas herramientas para lograr el objetivo.
 
 ## EXPERIENCIA
+### Cuponatic, Software Developer
 ### TCS consultancy services, Software Developer
 ### VOV Solutions, Software Engineering ll 
 ### BSDC, Software Developer
